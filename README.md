@@ -12,11 +12,11 @@ The confrontation of COVID-19 pandemic has become one of the promising challenge
 ![22](https://user-images.githubusercontent.com/31788789/111881647-a8eed680-89db-11eb-8330-85bea9232bfc.jpg)
 
 ## Citations
+Please cite our paper if you find the work useful:
 ```
 M. M. Islam, M. Z. Islam, A. Asraf and W. Ding, "Diagnosis of COVID-19 from X-rays using combined CNN-RNN architecture with transfer learning," MedRxiv, Aug. 2020. [Online]. Available: https://www.medrxiv.org/content/10.1101/2020.08.24.20181339v1
 
 ```
-
 ```
 @article{islam2020diagnosis,
   title={Diagnosis of COVID-19 from X-rays using combined CNN-RNN architecture with transfer learning},
