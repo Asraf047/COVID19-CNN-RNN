@@ -27,4 +27,3 @@ M. M. Islam, M. Z. Islam, A. Asraf and W. Ding, "Diagnosis of COVID-19 from X-ra
 
 ```
 > Paper: https://doi.org/10.1101/2020.08.24.20181339
-
