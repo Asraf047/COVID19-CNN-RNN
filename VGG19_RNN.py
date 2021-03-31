@@ -72,6 +72,8 @@ df_x = df['directory']
 
 X_train, X_test, Y_train, Y_test = train_test_split(df_x, df_y, stratify=df_y, test_size=0.20, random_state=7)
 
+df_x, df_y = X_train, Y_train
+
 test = pd.concat([X_test, Y_test], axis = 1)
 test.head()
 
