@@ -9,7 +9,7 @@ The confrontation of COVID-19 pandemic has become one of the promising challenge
 ![22](https://user-images.githubusercontent.com/31788789/111881647-a8eed680-89db-11eb-8330-85bea9232bfc.jpg)
 
 ## Dataset
-The dataset can be found in [here](https://www.kaggle.com/amanullahasraf/covid19-pneumonia-normal-chest-xray-pa-dataset). For dataset related queries, please drop an email to amanullahoasraf@gmail.com
+The dataset can be found in [here](https://data.mendeley.com/datasets/mxc6vb7svm). For dataset related queries, please drop an email to amanullahoasraf@gmail.com
 
 ## Citation
 Please cite our paper if you find the work useful:
@@ -27,4 +27,3 @@ M. M. Islam, M. Z. Islam, A. Asraf and W. Ding, "Diagnosis of COVID-19 from X-ra
 
 ```
 > Paper: https://doi.org/10.1101/2020.08.24.20181339
-
